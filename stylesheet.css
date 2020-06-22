@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6, p, div {
 }
 
 body {
-  font-family: "Tw Cen MT";
+  font-family: "Lucida Grande";
 }
 
 a {
@@ -124,12 +124,10 @@ header {
 
 .lesson-wrapper {
   padding-bottom: 80px;
-  padding-left: 20%;
-  padding-right: 20%;
+  padding-left: 5%;
+  padding-right: 5%;
   background-color: #f7f7f7;
   text-align: center;
-
- 
 }
 
 .heading {
@@ -144,15 +142,11 @@ header {
 
 .lesson {
   float: left;
-  width: 100%;
-
+  width: 25%;
 }
 
 .lesson-icon {
-  position :relative;
-  margin-left:10%;
-  margin-right:10%;
-  width:100%
+  position: relative;
 }
 
 .lesson-icon p {
@@ -163,7 +157,6 @@ header {
 }
 
 .txt-contents {
-  font-family: "Tw Cen MT";
   width: 80%;
   display: inline-block;
   margin-top: 15px;
