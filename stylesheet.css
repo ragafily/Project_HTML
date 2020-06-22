@@ -124,8 +124,8 @@ header {
 
 .lesson-wrapper {
   padding-bottom: 80px;
-  padding-left: 5%;
-  padding-right: 5%;
+  padding-left: 1%;
+  padding-right: 1%;
   background-color: #f7f7f7;
   text-align: center;
 
@@ -143,7 +143,7 @@ header {
 }
 
 .lesson {
-  float: left;
+  float: center;
   width: 100%;
 
 }
