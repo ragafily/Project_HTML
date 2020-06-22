@@ -128,9 +128,8 @@ header {
   padding-right: 5%;
   background-color: #f7f7f7;
   text-align: center;
-  margin-left:5px;
-  margin-right:5px;
-  width:100%;
+
+ 
 }
 
 .heading {
@@ -151,6 +150,9 @@ header {
 
 .lesson-icon {
   position: relative;
+  margin-left:10%;
+  margin-right:10%;
+  width:100%
 }
 
 .lesson-icon p {
