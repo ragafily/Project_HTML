@@ -144,9 +144,8 @@ header {
 
 .lesson {
   float: left;
-  width: 50%;
-  padding-right:5%;
-  padding-left:5%;
+  width: 25%;
+
 }
 
 .lesson-icon {
