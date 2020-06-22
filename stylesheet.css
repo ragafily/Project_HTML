@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6, p, div {
 }
 
 body {
-  font-family: "Lucida Grande";
+  font-family: "Tw Cen MT";
 }
 
 a {
@@ -157,6 +157,7 @@ header {
 }
 
 .txt-contents {
+  font-family: "Tw Cen MT";
   width: 80%;
   display: inline-block;
   margin-top: 15px;
