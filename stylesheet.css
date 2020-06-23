@@ -40,7 +40,7 @@ a {
   font-size: 45px;
   letter-spacing: 5px;
   margin-bottom: 10px;
-  float:center;
+ 
 }
 
 .top-wrapper p {
@@ -130,6 +130,7 @@ header {
   background-color: #f7f7f7;
   width:25%;
   text-align: center;
+  float:center;
 }
 
 .heading {
